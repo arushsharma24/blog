@@ -22,4 +22,6 @@ This pushes and updates the code in the `gh-pages` branch.
 #### Master branch
 Pushing code to the master branch is optional but good for consistency in my opinion. Push using `git push origin master`.
 
-If changes were made in some other place (like from the github website like I am right now), you can either force push using the -f flag i.e. `git push -f origin master`, or `merge using git pull origin master`
+If changes were made in some other place (like from the github website like I am right now), you can either force push using the -f flag i.e. `git push -f origin master`, or,
+
+merge using `git pull origin master`
