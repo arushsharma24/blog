@@ -1,7 +1,9 @@
-# My Blog!
+# My Blog
 
 Blog built using React and deployed on Github Pages. 
 This is currently under development.
+
+Update : I am not as excited about this as I was earlier this morning.
 
 #### Status :- 
   - Boilerplate code deployed
