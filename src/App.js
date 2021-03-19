@@ -9,14 +9,17 @@ function App() {
         <p>
           This site is currently under development.
         </p>
+        <p>
+        Meanwhile, checkout my &nbsp; 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://arushsharma24.github.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          portfolio website
         </a>
+        .</p>
       </header>
     </div>
   );
